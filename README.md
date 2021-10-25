@@ -39,6 +39,6 @@ Landing page:
 #### Front-End Project (React, CSS) 
 In this app you can search info about your favorite movies!
 
-[<img src="https://github.com/lautarort/lautarort/blob/main/img/lautiflix.gif""/>](https://github.com/lautarort/Lautiflix) 
+[<img src="https://github.com/lautarort/lautarort/blob/main/img/lautiflix.gif"/>](https://github.com/lautarort/Lautiflix) 
 
 #### Repository link [here](https://github.com/lautarort/Lautiflix) 
