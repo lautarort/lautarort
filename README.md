@@ -34,11 +34,11 @@ Landing page:
 #### Repository link [here](https://github.com/lautarort/Foods-App)
 
 ---
-<!-- 
-### SOFLIX
+ 
+### Lautiflix
 #### Front-End Project (React, CSS) 
-This is a clone from another app you already know 😉. You can watch your favorite movies and TV Shows trailers!
+In this app you can search info about your favorite movies!
 
-[<img src="https://github.com/sofiarocchietti/sofiarocchietti/blob/main/img/SOFLIX.gif"/>](https://github.com/sofiarocchietti/soflix) 
+[<img src="https://github.com/lautarort/lautarort/blob/main/img/lautiflix.gif""/>](https://github.com/lautarort/Lautiflix) 
 
-#### Repository link [here](https://github.com/sofiarocchietti/soflix) -->
+#### Repository link [here](https://github.com/lautarort/Lautiflix) 
