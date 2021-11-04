@@ -17,11 +17,7 @@ Welcome to mi github profile! I am Lautaro, a 24 years old Full Stack Developer 
       <a href="https://github.com/lautarort">
       <img src='https://github.com/lautarort/lautarort/blob/main/img/github-154-675675.png' alt='github' height='60'>
     </a>
-    <a href="https://api.whatsapp.com/send?phone=5493876282042">
-      <img src='https://github.com/lautarort/lautarort/blob/main/img/black-and-white-whatsapp-logo-png-clip-art.png' alt='whatsapp' height='60'>
-    </a>
-   <p align="center"> lautarorangil@gmail.com </p>
-</p>
+  
 
 ## Projects 
 
