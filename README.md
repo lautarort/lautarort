@@ -17,7 +17,11 @@ Welcome to mi github profile! I am Lautaro, a 24 years old Full Stack Developer 
       <a href="https://github.com/lautarort">
       <img src='https://github.com/lautarort/lautarort/blob/main/img/github-154-675675.png' alt='github' height='60'>
     </a>
-  
+## I am currently working..
+####  
+
+[<img src="https://github.com/lautarort/lautarort/blob/main/img/foods.gif"/>](https://github.com/lautarort/)    
+    
 
 ## Projects 
 
